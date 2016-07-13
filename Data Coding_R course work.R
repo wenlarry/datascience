@@ -1,4 +1,4 @@
-## Coding of data with aplly functions
+## Coding of data with apply functions
 ## R Progamming Course Work
 
 
